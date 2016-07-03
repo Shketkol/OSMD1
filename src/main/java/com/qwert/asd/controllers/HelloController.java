@@ -1,4 +1,4 @@
-package com.qwert.asd;
+package com.qwert.asd.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
